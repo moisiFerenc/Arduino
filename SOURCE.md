@@ -1,6 +1,9 @@
 # Arduino
 This is a sort porject , nothing special
 
+here is a little instruction:
+https://youtu.be/I50MS7iE-MQ
+
 
 here is my source code
 ```c++
